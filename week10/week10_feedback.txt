@@ -1,0 +1,9 @@
+Week 10 Feedback
+
+36.1: 1/1
+36.2: 0.5/1 - It doesn't count to test your results with what amounts to "if A=f(), does f()=A?".  That's called a tautology, not a proof.
+38.1: 3/3
+
+Overall: 5/5
+
+Comments:
