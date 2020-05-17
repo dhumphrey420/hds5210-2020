@@ -1,0 +1,20 @@
+PART 1:
+I'm a little confused about why you had to manually set the area for several of these FIPS codes.  -1
+
+PART 2:
+This was pretty good, but removing the leading 29 could have been easier w/o the extra replacements.  -1
+You could have substringed or used a regular expression instead.
+
+PART 3:
+Nice
+
+PART 4:
+Good work
+
+PART 5:
+Great work
+
+PART 6:
+Good, straight forward observations.
+
+
